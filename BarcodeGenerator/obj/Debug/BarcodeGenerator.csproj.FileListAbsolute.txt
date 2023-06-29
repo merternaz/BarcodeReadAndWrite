@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Debug\Spire.Barcode.dll
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\bin\Debug\Spire.Barcode.xml
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Form1.resources
+C:\Users\MONSTER\source\repos\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
